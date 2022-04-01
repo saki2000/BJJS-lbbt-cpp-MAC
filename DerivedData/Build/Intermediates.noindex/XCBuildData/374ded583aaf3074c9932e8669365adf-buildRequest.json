@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "08ddfa7a40f06b3460755df6a8880556d4d85102364388df7b32f3f9eb9acc5c"
+    }
+  ],
+  "containerPath" : "/Users/sakos/Documents/GitHub/BJJS lbbt/BJJS lbbt.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/sakos/Documents/GitHub/BJJS lbbt/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/sakos/Documents/GitHub/BJJS lbbt/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/sakos/Documents/GitHub/BJJS lbbt/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/sakos/Documents/GitHub/BJJS lbbt/DerivedData/BJJS lbbt/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/sakos/Documents/GitHub/BJJS lbbt/DerivedData/BJJS lbbt/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/sakos/Documents/GitHub/BJJS lbbt/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

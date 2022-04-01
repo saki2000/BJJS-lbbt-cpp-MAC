@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2A20E5C4-2B96-467E-AB88-7A354CE1A440</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A20E5C4-2B96-467E-AB88-7A354CE1A440.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670510131.82061803</real>
+			<key>timeStoppedRecording</key>
+			<real>670510133.05857503</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>2A20E5C4-2B96-467E-AB88-7A354CE1A440</string>
+		</dict>
+		<key>3522D1BD-BEFD-4549-9DAF-3E1FB5A77BE6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3522D1BD-BEFD-4549-9DAF-3E1FB5A77BE6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670511517.55228806</real>
+			<key>timeStoppedRecording</key>
+			<real>670511518.29386401</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>3522D1BD-BEFD-4549-9DAF-3E1FB5A77BE6</string>
+		</dict>
+		<key>3B59DB2D-5706-4259-926F-6A3D7EEE0FD1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B59DB2D-5706-4259-926F-6A3D7EEE0FD1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670511531.25245595</real>
+			<key>timeStoppedRecording</key>
+			<real>670511532.50042295</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>3B59DB2D-5706-4259-926F-6A3D7EEE0FD1</string>
+		</dict>
+		<key>3CD0D3CD-EA47-4BB5-8420-1DDBB36BE5FC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3CD0D3CD-EA47-4BB5-8420-1DDBB36BE5FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670509259.55604196</real>
+			<key>timeStoppedRecording</key>
+			<real>670509260.19983995</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>3CD0D3CD-EA47-4BB5-8420-1DDBB36BE5FC</string>
+		</dict>
+		<key>4D822A78-A1E7-4C16-A819-10607E9F3871</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4D822A78-A1E7-4C16-A819-10607E9F3871.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670510211.70106494</real>
+			<key>timeStoppedRecording</key>
+			<real>670510212.35690403</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>4D822A78-A1E7-4C16-A819-10607E9F3871</string>
+		</dict>
+		<key>67C607F6-53BD-4114-BD44-21F77FE6B2C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67C607F6-53BD-4114-BD44-21F77FE6B2C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670510191.87978399</real>
+			<key>timeStoppedRecording</key>
+			<real>670510192.67890298</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>67C607F6-53BD-4114-BD44-21F77FE6B2C4</string>
+		</dict>
+		<key>6AD39DA4-0A30-4F10-83A0-C741EACF9EEE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6AD39DA4-0A30-4F10-83A0-C741EACF9EEE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670511054.81699705</real>
+			<key>timeStoppedRecording</key>
+			<real>670511055.53259301</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>6AD39DA4-0A30-4F10-83A0-C741EACF9EEE</string>
+		</dict>
+		<key>6D867E8B-DB2E-48A1-8D0D-C224E1473293</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6D867E8B-DB2E-48A1-8D0D-C224E1473293.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670510272.18129599</real>
+			<key>timeStoppedRecording</key>
+			<real>670510272.87713504</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>6D867E8B-DB2E-48A1-8D0D-C224E1473293</string>
+		</dict>
+		<key>7CFB3E8E-243B-4C0C-93CE-411730936735</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7CFB3E8E-243B-4C0C-93CE-411730936735.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670511597.87300003</real>
+			<key>timeStoppedRecording</key>
+			<real>670511598.71787095</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>7CFB3E8E-243B-4C0C-93CE-411730936735</string>
+		</dict>
+		<key>835388DF-98EF-4081-8674-31F5D270976E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>835388DF-98EF-4081-8674-31F5D270976E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670511779.40797603</real>
+			<key>timeStoppedRecording</key>
+			<real>670511780.05322397</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>835388DF-98EF-4081-8674-31F5D270976E</string>
+		</dict>
+		<key>8D5990E1-E119-40AE-A9C1-CE7B019AC49C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D5990E1-E119-40AE-A9C1-CE7B019AC49C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670509204.70295894</real>
+			<key>timeStoppedRecording</key>
+			<real>670509205.36477602</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>8D5990E1-E119-40AE-A9C1-CE7B019AC49C</string>
+		</dict>
+		<key>938045C8-25C1-459A-B2DF-3FCE62EAD766</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>938045C8-25C1-459A-B2DF-3FCE62EAD766.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670509195.82584596</real>
+			<key>timeStoppedRecording</key>
+			<real>670509197.25775099</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>938045C8-25C1-459A-B2DF-3FCE62EAD766</string>
+		</dict>
+		<key>9D547F88-A54E-4263-AB9F-5B3D332473AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D547F88-A54E-4263-AB9F-5B3D332473AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670510225.37254596</real>
+			<key>timeStoppedRecording</key>
+			<real>670510226.05772603</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>9D547F88-A54E-4263-AB9F-5B3D332473AF</string>
+		</dict>
+		<key>E4A8A7D6-DDED-40C8-86E5-4C056A21B5F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E4A8A7D6-DDED-40C8-86E5-4C056A21B5F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670509381.23521495</real>
+			<key>timeStoppedRecording</key>
+			<real>670509381.93371499</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>E4A8A7D6-DDED-40C8-86E5-4C056A21B5F4</string>
+		</dict>
+		<key>E89B8973-1F37-43A1-862C-E47445A6B612</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E89B8973-1F37-43A1-862C-E47445A6B612.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670511583.35942805</real>
+			<key>timeStoppedRecording</key>
+			<real>670511584.16428006</real>
+			<key>title</key>
+			<string>Build BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>E89B8973-1F37-43A1-862C-E47445A6B612</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
