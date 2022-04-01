@@ -6,6 +6,74 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>24433EB5-78EE-4A99-8AC7-5130A9DADFEE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>24433EB5-78EE-4A99-8AC7-5130A9DADFEE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670533470.918823</real>
+			<key>timeStoppedRecording</key>
+			<real>670533473.60543203</real>
+			<key>title</key>
+			<string>Run BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>24433EB5-78EE-4A99-8AC7-5130A9DADFEE</string>
+		</dict>
+		<key>29CDC314-4384-4622-A1FD-D8F78F3C601B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>29CDC314-4384-4622-A1FD-D8F78F3C601B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670533352.64173496</real>
+			<key>timeStoppedRecording</key>
+			<real>670533368.21322405</real>
+			<key>title</key>
+			<string>Run BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>29CDC314-4384-4622-A1FD-D8F78F3C601B</string>
+		</dict>
 		<key>3D626347-BB9D-4786-83D6-60A128626921</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +141,176 @@
 			<string>Run BJJS lbbt</string>
 			<key>uniqueIdentifier</key>
 			<string>433F971E-61D6-4BA3-9F83-1E69D4FDE272</string>
+		</dict>
+		<key>65D4C199-300E-4EE8-95AF-BFBDD33F9EDE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65D4C199-300E-4EE8-95AF-BFBDD33F9EDE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670518908.11933994</real>
+			<key>timeStoppedRecording</key>
+			<real>670518910.28812897</real>
+			<key>title</key>
+			<string>Run BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>65D4C199-300E-4EE8-95AF-BFBDD33F9EDE</string>
+		</dict>
+		<key>908FEF1E-80E3-4172-8816-63EB34582DEC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>908FEF1E-80E3-4172-8816-63EB34582DEC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670533486.09005594</real>
+			<key>timeStoppedRecording</key>
+			<real>670533488.84445906</real>
+			<key>title</key>
+			<string>Run BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>908FEF1E-80E3-4172-8816-63EB34582DEC</string>
+		</dict>
+		<key>B4AAAC0A-C8C6-43EE-90CC-6218B0F4EA2C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B4AAAC0A-C8C6-43EE-90CC-6218B0F4EA2C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670518937.72039199</real>
+			<key>timeStoppedRecording</key>
+			<real>670518940.69326401</real>
+			<key>title</key>
+			<string>Run BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>B4AAAC0A-C8C6-43EE-90CC-6218B0F4EA2C</string>
+		</dict>
+		<key>B9F09F6E-99A7-4E54-8417-4F1F0F9D1F6D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B9F09F6E-99A7-4E54-8417-4F1F0F9D1F6D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670518884.44691205</real>
+			<key>timeStoppedRecording</key>
+			<real>670518887.30732298</real>
+			<key>title</key>
+			<string>Run BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>B9F09F6E-99A7-4E54-8417-4F1F0F9D1F6D</string>
+		</dict>
+		<key>DB9CAC68-2B49-4A33-B861-E773EDD83CDF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DB9CAC68-2B49-4A33-B861-E773EDD83CDF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BJJS lbbt project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BJJS lbbt</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BJJS lbbt</string>
+			<key>timeStartedRecording</key>
+			<real>670518762.03643703</real>
+			<key>timeStoppedRecording</key>
+			<real>670518765.97389305</real>
+			<key>title</key>
+			<string>Run BJJS lbbt</string>
+			<key>uniqueIdentifier</key>
+			<string>DB9CAC68-2B49-4A33-B861-E773EDD83CDF</string>
 		</dict>
 	</dict>
 </dict>

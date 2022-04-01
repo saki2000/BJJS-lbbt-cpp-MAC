@@ -20,33 +20,44 @@ struct TaxBrackets
 class TaxCalculator
 {
 private:
-    int houseValue = 0;
-    const std::vector<TaxBrackets>bracket = {{0,175000,0.0}, {175000,250000,0.02}, {250000,325000,0.05}, {325000,750000,0.1}, {750000, std::numeric_limits<int>::max(), 0.12}};
+    int32_t houseValue = 0;
+    const std::vector<TaxBrackets>bracket = {{0,145000,0.0}, {145000,250000,0.02}, {250000,325000,0.05}, {325000,750000,0.1}, {750000, std::numeric_limits<int>::max(), 0.12}};
     
 public:
     TaxCalculator(){};
-    TaxCalculator(int houseValue_)
+    TaxCalculator(int32_t houseValue_)
     {
         this->houseValue = houseValue_;
     }
     
-    int calculate()
+    int32_t calculate()
     {
-        int32_t lbbt = 0;
+        float lbbt = 0;
+        int32_t taxAtThisBracket = 0;
         
+        for (std::size_t i = 0 ; i<bracket.size(); i++ )
+        {
+            if(houseValue > bracket[i].min)
+            {
+                if( (bracket[i].max - bracket[i].min) < (houseValue - bracket[i].min) )
+                    taxAtThisBracket = (bracket[i].max - bracket[i].min);
+                else
+                    taxAtThisBracket = houseValue - bracket[i].min;
+                
+                lbbt += taxAtThisBracket * bracket[i].rate;
+            }
+            
+        }
         
-        
-        
-        
-        return lbbt;
+        return static_cast<int>(lbbt);
     }
+    
 };
 
 int main(int argc, const char * argv[]) {
 
     TaxCalculator tax1(300000);
-    
-    tax1.calculate();
+    std::cout<< tax1.calculate() << std::endl;
     
     
     return 0;

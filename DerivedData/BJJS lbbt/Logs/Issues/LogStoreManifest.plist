@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>7FCBE994-C151-40D4-AE22-D39463945629</key>
+		<key>069F0F4C-929F-4709-92FC-0FBC2AB53DC2</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,24 +15,24 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>7FCBE994-C151-40D4-AE22-D39463945629.xcactivitylog</string>
+			<string>069F0F4C-929F-4709-92FC-0FBC2AB53DC2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>signature</key>
 			<string>BJJS_lbbt-dwnqympfjakvcocljllgykxcpeen</string>
 			<key>timeStartedRecording</key>
-			<real>670511779.45243096</real>
+			<real>670533485.33569503</real>
 			<key>timeStoppedRecording</key>
-			<real>670511780.04869998</real>
+			<real>670533486.08386397</real>
 			<key>title</key>
 			<string>Build target BJJS lbbt</string>
 			<key>uniqueIdentifier</key>
-			<string>7FCBE994-C151-40D4-AE22-D39463945629</string>
+			<string>069F0F4C-929F-4709-92FC-0FBC2AB53DC2</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
